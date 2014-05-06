@@ -1,9 +1,7 @@
 Veeva-Site-Generator
 ====================
 
-#### Veeva Site Generator
-
-Description:
+#### Description:
 The script will generate the directory structure including ctl files, sass files, and html files (with some preliminary html).
 
 #### Directions:
